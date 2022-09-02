@@ -1,6 +1,6 @@
 # Tinder Clone using MERN
 
-The project uses Mongo, Express, Node and React JS to create a Tinder Clone. It Check it live [here](https://spotify-clone-two-self.vercel.app/)
+The project uses Mongo, Express, Node and React JS to create a Tinder Clone.
 
 ## Running the app
 
